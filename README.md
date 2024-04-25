@@ -1,0 +1,2 @@
+CYBER 754
+This course studies security issues arising primarily from computer networks that cover internet protocol attacks, intrusion prevention, and intrusion detection and responses. Topics include TCP/IP protocol attacks and countermeasures, denial of service attacks, firewalls, cryptography, virtual private networks, web security, mathematical foundations for intrusion detection, network-based and host-based intrusion detection, automated and manual response to attacks, and legal/organizational issues.
